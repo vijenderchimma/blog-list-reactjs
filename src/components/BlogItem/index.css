@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-right: 20px;
+}
+.title {
+  color: #12022f;
+  font-size: 20px;
+}

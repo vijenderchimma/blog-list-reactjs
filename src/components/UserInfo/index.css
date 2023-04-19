@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-image {
+  width: 100px;
+  height: 100px;
+}
+.name {
+  font-size: 20px;
+  color: #12022f;
+}
+.role {
+  color: #9aa5b1;
+}
